@@ -1,0 +1,14 @@
+# virtual environment
+env/
+venv/
+.venv/
+
+# python cache
+_pycache_/
+*.pyc
+
+# environment variables
+.env
+
+# secrets
+token.json
